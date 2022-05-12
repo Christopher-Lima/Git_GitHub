@@ -1,6 +1,6 @@
 *{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 body {
@@ -11,6 +11,14 @@ main {
     background-color: antiquewhite;
     width: 500px;
     margin: auto;
-    padding: 10px;
+    padding: 15px;
     box-shadow: 3px 3px 5px rgba(0,0,0,0.473);
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+    text-align: justify;
 }
