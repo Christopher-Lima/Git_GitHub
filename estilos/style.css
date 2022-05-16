@@ -1,13 +1,29 @@
 body {
     background-color: aquamarine;
+    width:90%;
+    margin: 0 auto;
+    min-width:600px;
+    max-width:2000px
+}
+
+div.navbar{
+    background-color: rgb(71, 111, 241);
+    width: 80%;
+    top: 0px;
+    margin: 0 auto;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.473);
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 main {
     background-color: antiquewhite;
-    width: 500px;
+    width: 75%;
     margin: auto;
     padding: 15px;
     box-shadow: 3px 3px 5px rgba(0,0,0,0.473);
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
